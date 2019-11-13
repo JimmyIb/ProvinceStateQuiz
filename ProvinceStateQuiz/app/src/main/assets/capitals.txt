@@ -1,0 +1,76 @@
+Alberta	AB	Edmonton
+BritishColumbia	BC	Victoria
+Manitoba	MB	Winnipeg
+NewBruniswick	NB	Fredericton
+NewfoundlandandLabrador NL	St.John’s
+NovaScotia	NS	Halifax
+Ontario	ON	Toronto
+PrinceEdwardIsland	PE	Charlottetown
+Quebec	QC	Quebec city
+Saskatchewan	SK	Regina
+
+
+NorthwestTerritory	NT	Yellowknife
+Nunavut	NU	Iqaluit
+YukonTerritory	YT	Whitehorse
+
+
+
+
+Alabama	AL	Montgomery
+Alaska	AK	Juneau
+Arizona	AZ	Phoenix
+Arkansas	AR	Little Rock
+California	CA	Sacramento
+Colorado	CO	Denver
+Connecticut	CT	Hartford
+Delaware	DE	Dover
+Florida	FL	Tallahassee
+Georgia	GA	Atlanta
+Hawaii	HI	Honolulu
+Idaho	ID	Boise
+Illinois	IL	Springfield
+Indiana	IN	Indianapolis
+Iowa	IA	Des Moines
+Kansas	KS	Topeka
+Kentucky	KY	Frankfort
+Louisiana	LA	Baton Rouge
+Maine	ME	Augusta
+Maryland	MD	Annapolis
+Massachusetts	MA	Boston
+Michigan	MI	Lansing
+Minnesota	MN	Saint Paul
+Mississippi	MS	Jackson
+Missouri	MO	Jefferson City
+Montana	MT	Helena
+Nebraska	NE	Lincoln
+Nevada	NV	Carson City
+NewHampshire	NH	Concord
+NewJersey	NJ	Trenton
+NewMexico	NM	Santa Fe
+NewYork	NY	Albany
+NorthCarolina	NC	Raleigh
+NorthDakota	ND	Bismarck
+Ohio	OH	Columbus
+Oklahoma	OK	Oklahoma City
+Oregon	OR	Salem
+Pennsylvania	PA	Harrisburg
+RhodeIsland	RI	Providence
+SouthCarolina	SC	Columbia
+SouthDakota	SD	Pierre
+Tennessee	TN	Nashville
+Texas	TX	Austin
+Utah	UT	Salt Lake City
+Vermont	VT	Montpelier
+Virginia	VA	Richmond
+Washington	WA	Olympia
+WestVirginia	WV	Charleston
+Wisconsin	WI	Madison
+Wyoming	WY	Cheyenne
+
+AmericanSamoa	AS	Pago Pago
+Guam	GU	Hagatna
+NorthernMarianaIslands	MP	Saipan
+PuertoRico	PR	San Juan
+USVirginIslands	VI	Charlotte Amalie
+
